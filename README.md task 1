@@ -1,0 +1,59 @@
+# Resposive-Landing-Page
+task solutions
+# 🌐 Interactive Navigation Menu
+
+## 📌 Task Description
+Create an interactive navigation menu that:
+- Changes color/style when scrolled
+- Changes style when hovering over menu items
+- Has a fixed position
+- Is visible on all pages
+
+---
+
+## 🚀 Features
+✔ Fixed Navigation Bar  
+✔ Scroll-based Style Change  
+✔ Hover Effects on Menu Items  
+✔ Responsive Design  
+
+---
+
+## 🛠 Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📂 Project Structure
+
+---
+
+## ⚡ How It Works
+
+### 🔹 Scroll Effect
+When user scrolls down:
+- Navbar background changes
+- Shadow effect appears
+
+### 🔹 Hover Effect
+When hovering on menu items:
+- Text color changes
+- Slight zoom animation
+
+---
+
+## ▶️ How to Run
+1. Download or clone repository
+2. Open `index.html` in browser
+
+---
+
+## 📸 Output
+Responsive landing page with interactive navbar.
+
+---
+
+## 👩‍💻 Author
+Your Name
